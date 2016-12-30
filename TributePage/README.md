@@ -1,4 +1,4 @@
-# freeCodeCamp---Tribute-Page
+# Tribute Page
 
 Project for freeCodeCamp.  Project created on Codepen see: http://codepen.io/Jakeadelic/full/ZOqEEZ
 
