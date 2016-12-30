@@ -1,0 +1,27 @@
+body{
+  margin:60px;
+}
+
+.gray-text{
+  color:gray;
+}
+
+h1{
+  font-family: serif;
+}
+
+#photograph-container{
+  margin:0px
+}
+
+#info{
+  margin:40px 60px 20px 60px;
+}
+
+#quote{
+  padding:0px 0px 0px 0px;
+}
+
+#final-statement{
+  padding:10px 60px 20px 60px;
+}
